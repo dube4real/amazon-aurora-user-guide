@@ -72,8 +72,6 @@ With an Aurora Serverless DB cluster, you can modify only the following paramete
 + `lc_time_names`\.
 + `lower_case_table_names`
 + `time_zone`\.
-+  `general_log`\. This setting was formerly only in the DB instance parameter group\. 
-+  `slow_query_log`\. This setting was formerly only in the DB instance parameter group\. 
 +  `server_audit_logging`\.
 +  `server_audit_events`\.
 +  `server_audit_excl_users`\.
